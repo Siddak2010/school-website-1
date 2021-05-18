@@ -1,0 +1,13 @@
+.bannerImg {
+    height: 50vh;
+    width: 100%;
+}
+margin{
+    
+}
+
+.content-container{margin: 30px auto; width: 80%;}
+.content-container iframe{float: left; margin-right: 20px;}
+.content-container a{color: brown; display: block; margin-bottom: 10px;}
+.content-container a:hover{text-decoration: none; color: burlywood;}
+.content-container a i{margin-right: 3px;}
